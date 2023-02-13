@@ -1,0 +1,1 @@
+# lerArquivo_C
